@@ -1,7 +1,8 @@
 # TODO-LIST-UNITY
 Perfect for solo developers and teams who want to ship games faster without constantly switching between apps!
 
-Technical Features:
+**Technical Features:**
+
 • Editor Window with drag-drop asset linking
 
 • JSON data persistence between sessions  
