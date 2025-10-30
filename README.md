@@ -3,12 +3,19 @@ Perfect for solo developers and teams who want to ship games faster without cons
 
 Technical Features:
 • Editor Window with drag-drop asset linking
+
 • JSON data persistence between sessions  
+
 • Custom ScriptableObject settings
+
 • Context menu integration
+
 • CSV export for reporting
+
 • Status enums (Blocked, In Progress, On Hold)
+
 • Priority and category system
+
 
 ### ⚡How To Use:
 - Download the Script folder and import it into your project. Open it by going to Tools > Todo List
