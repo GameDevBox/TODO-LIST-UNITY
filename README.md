@@ -11,6 +11,8 @@ Perfect for solo developers and teams who want to ship games faster without cons
 
 • Context menu integration
 
+• Subtasks and Team Memeber
+
 • CSV export for reporting
 
 • Status enums (Blocked, In Progress, On Hold)
